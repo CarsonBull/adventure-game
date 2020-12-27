@@ -1,6 +1,6 @@
 # Adventure game
 
-This is a simpel CLI adventur game where the users goal is to find a key then go to the exit.
+This is a simple CLI adventure game where the users goal is to find a key then go to the exit.
 
 ### Run the game
 
